@@ -1,5 +1,5 @@
 - ✌ Hi, I’m Tibo, nice to meet you !
-- 👀 I’m interested in music, video games et more recently, in the vast and colorful world of digital development !
+- 👀 I’m interested in music, video games and more recently, in the vast and colorful world of digital development !
 - 🌱 I’m currently learning to become a web developer and it's pretty awesome all the possibilites the different coding languages have to offer. I just obtained my diploma !🥇 I’m aware 
 I still have much to go on before becoming an experienced developer. 
 - 📓 I’m looking to learn as much as I can from others and will put some of my projects in here in order to show my work and also to have a clear view on my personal evolution during the years to come. 
